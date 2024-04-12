@@ -1,1 +1,2 @@
 # Determining Factors that lead to a successful Wrestling Career
+This project employs data scraping techniques to gather and analyze wrestler statistics from the Cagematch website. The study integrates multiple machine learning models, including linear regression and random forest, to evaluate the impact of various factors such as match history, physical attributes, and fighting style on a wrestler's career success. The results aim to identify the key attributes that contribute to higher win rates in the wrestling industry.
